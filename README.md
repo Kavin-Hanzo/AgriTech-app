@@ -1,2 +1,2 @@
-# AgriTech-app
-AgriTech app for social and marketplace platform
+# AgriTech App - Marketplace and Social Platform
+This project is a comprehensive AgriTech platform that provides a social marketplace for farmers, buyers, and other stakeholders to connect, buy, sell, and share agricultural products and information. It includes a Flutter-based frontend and a FastAPI-powered backend, with seamless communication between the two via RESTful APIs. The app enables users to view product listings, make purchases, communicate with others, and engage in social activities.
